@@ -1,0 +1,4 @@
+#Wed Sep 04 13:14:29 PET 2024
+base.0=M\:\\Desarrollos\\FlutterApps\\app_pragma_catbreeds\\app_pragma_catbreeds\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

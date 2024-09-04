@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.app_pragma_catbreeds.app-mergeDebugResources-11:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "M:\\Desarrollos\\FlutterApps\\app_pragma_catbreeds\\app_pragma_catbreeds\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "175,831",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "482,997"
+                    },
+                    "to": {
+                        "startLines": "3,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "107,288",
+                        "endLines": "6,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "283,452"
+                    }
+                },
+                {
+                    "source": "M:\\Desarrollos\\FlutterApps\\app_pragma_catbreeds\\app_pragma_catbreeds\\android\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "51",
+                        "endOffsets": "104"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}
